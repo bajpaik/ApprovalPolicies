@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="INSERT_OR_UPDATE">
+        <source_scope display_value="CloudApprovals">de0c9da15b44130025c9273a41f91af1</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-02 21:01:36</sys_created_on>
+        <sys_id>e2dc19e15b44130025c9273a41f91a62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80d50579eb203200979aa5115206fedd</sys_name>
+        <sys_package display_value="CloudApprovals" source="sn_cloudapprovals">de0c9da15b44130025c9273a41f91af1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CloudApprovals">de0c9da15b44130025c9273a41f91af1</sys_scope>
+        <sys_update_name>sys_scope_design_access_e2dc19e15b44130025c9273a41f91a62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-02 21:01:36</sys_updated_on>
+        <target_package display_value="Cloud Management Platform" source="sn_cmp">80d50579eb203200979aa5115206fedd</target_package>
+    </sys_scope_design_access>
+</record_update>
